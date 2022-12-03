@@ -1,0 +1,53 @@
+#main-box{
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    height: 93vh;
+    background-color: rgb(215, 229, 240);
+
+    justify-content: center;
+    align-items: center;
+
+    flex-direction: column
+}
+
+#txt-background{
+    
+    display: flex;
+    height: 45px;
+    align-items: center;
+    
+    margin: 10px;
+    padding: 10px;
+
+    font-size: 20pt;
+    font-weight: 900;
+    letter-spacing: 5px;
+
+    border-radius: 5px;
+    background-color: rgb(45, 49, 56);
+
+    text-align: center;
+
+    color: aliceblue;
+    
+}
+
+#btn-clickMe{
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+    margin: 20px;
+
+    font-weight: 900;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 10pt;
+    height: 36px;
+    background-color: transparent;
+
+    
+    border: 2px solid;
+    box-shadow: 0px 0px 3px 0px black;
+    border-radius: 5px;
+    
+}
+
